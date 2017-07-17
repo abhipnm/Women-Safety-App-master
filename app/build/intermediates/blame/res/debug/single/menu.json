@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Women-Safety-App-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\display.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Women-Safety-App-master\\app\\src\\main\\res\\menu\\display.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Women-Safety-App-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Women-Safety-App-master\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Women-Safety-App-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\register.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Women-Safety-App-master\\app\\src\\main\\res\\menu\\register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Women-Safety-App-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\instructions.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Women-Safety-App-master\\app\\src\\main\\res\\menu\\instructions.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Women-Safety-App-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\verify.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Women-Safety-App-master\\app\\src\\main\\res\\menu\\verify.xml"
+    }
+]

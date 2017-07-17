@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Lenovo\Desktop\Women-Safety-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_93f15369d8a2edc4962e426020f378984465305c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\Desktop\Women-Safety-App-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d91e8f286118f91311cf56635b1d7e6557329219">
+        <dex dex="C:\Users\Lenovo\Desktop\Women-Safety-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_bedd3fd1a80fc70e86593800dbb538d4612887c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\Desktop\Women-Safety-App-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Lenovo\Desktop\Women-Safety-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d372f67d32650ab0f9d181b2a4a8a372d87c4165\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Lenovo\Desktop\Women-Safety-App-master\app\build\intermediates\pre-dexed\release\support-v4-19.1.0_93f15369d8a2edc4962e426020f378984465305c.jar" />
+    </item>
+
+</items>

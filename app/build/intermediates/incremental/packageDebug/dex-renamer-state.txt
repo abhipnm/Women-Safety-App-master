@@ -1,0 +1,7 @@
+#Tue Jul 18 00:20:37 IST 2017
+base.0=C\:\\Users\\Lenovo\\Desktop\\Women-Safety-App-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d372f67d32650ab0f9d181b2a4a8a372d87c4165
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Lenovo\\Desktop\\Women-Safety-App-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_bedd3fd1a80fc70e86593800dbb538d4612887c3\\classes.dex
+base.1=C\:\\Users\\Lenovo\\Desktop\\Women-Safety-App-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_bedd3fd1a80fc70e86593800dbb538d4612887c3
+file.0=C\:\\Users\\Lenovo\\Desktop\\Women-Safety-App-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d372f67d32650ab0f9d181b2a4a8a372d87c4165\\classes.dex
